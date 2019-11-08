@@ -1,4 +1,4 @@
-
+[![Build Status](https://v-rogren.visualstudio.com/SimpleAPI/_apis/build/status/rogerlren.pipelines-java?branchName=master)](https://v-rogren.visualstudio.com/SimpleAPI/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
